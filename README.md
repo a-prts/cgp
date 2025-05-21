@@ -1,4 +1,4 @@
-# CGP - Computer Graphics Programming Library
+# CGP - Computer Graphics Programming Library (forked from Mathieu Brédif for the purpose of a school project)
 
 ![BuildWindows](https://github.com/drohmer/CGP/actions/workflows/Windows.yml/badge.svg)
 ![BuildLinux](https://github.com/drohmer/CGP/actions/workflows/Linux.yml/badge.svg)
